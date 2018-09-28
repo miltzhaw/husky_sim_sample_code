@@ -1,0 +1,4 @@
+subscriber_topic: /scan
+subscriber_queue_size: 10
+publisher_topic: /cmd_vel
+publisher_queue_size: 10
